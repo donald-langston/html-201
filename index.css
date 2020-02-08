@@ -1,0 +1,40 @@
+html, body {
+    background-color: black;
+}
+/*
+body {
+    position: relative;
+}
+*/
+
+#space-jam {
+    color: white;
+    width: 100%;
+    height: 420px;
+    /*
+    text-align: center;
+    vertical-align: center;
+    */
+    
+    position: absolute;
+    /*top: 50%;
+    left: 50%;*/
+
+    /* margin: */
+    /*
+    margin-top: 212px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: -250px;
+    */
+}
+
+#container {
+    border: 1px solid red;
+    height: 500px;
+    width: 60%;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    resize: both;
+}
